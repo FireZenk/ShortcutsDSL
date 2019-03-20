@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShortcutsDSL</string>
+    <string name="shortcuts_twitter">Twitter</string>
+    <string name="shortcuts_twitter_long">FireZenk\'s Twitter profile</string>
+    <string name="shortcuts_github">Github</string>
+    <string name="shortcuts_github_long">FireZenk\'s Github profile</string>
+</resources>
