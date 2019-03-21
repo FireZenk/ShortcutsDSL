@@ -1,4 +1,5 @@
-# ShortcutsDSL
+# ShortcutsDSL [![](https://jitpack.io/v/FireZenk/ShortcutsDSL.svg)](https://jitpack.io/#FireZenk/ShortcutsDSL)
+
 A little lib to easily create Android app shortcuts with Kotlin
 
 ## GRADLE
@@ -15,6 +16,8 @@ dependencies {
 ```
 
 ## USAGE
+
+ShortcutsDSL has extensions for `androidx`'s `Activiy` and `Fragment`, also a variant `Context`'s dependent function, using them is as simple as:
 
 ```kotlin
 addDynamicShortcuts(
